@@ -26,5 +26,15 @@ namespace SquaresWebApp.Controllers
 
             return View();
         }
+
+        public ActionResult Gallery()
+        {
+            return View();
+        }
+
+        public ActionResult Product()
+        {
+            return View();
+        }
     }
 }
